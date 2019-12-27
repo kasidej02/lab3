@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    float x=2,a=0;
-    while(x<=69){
+    float x=6,a=0;
+    while(x<=19){
         a=(1/x)+a;
         x=x+1;
     }
