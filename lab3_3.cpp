@@ -2,10 +2,11 @@
 using namespace std;
 int main(){
     int x;
-    while(x>=69){
+    cout>>"yeye";
+    
 
         
-    }
-    cout>>"asn"
+    
+  
     return 0;
 }
